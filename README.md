@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -58,20 +57,19 @@
 
   <div class="header">
     <!-- Profile Image -->
-    <img class="profile-img" src="(https://drive.google.com/file/d/1SUuxaG9nmThVpG3aAadmmsBPnXx_PQhj/view?usp=drive_link)" alt="Profile Picture">
+    <img class="profile-img" src="(https://drive.google.com/file/d/1SUuxaG9nmThVpG3aAadmmsBPnXx_PQhj/view?usp=sharing)" alt="Profile Picture">
 
     <!-- Basic Information Section -->
     <div class="basic-info">
       <!-- Input your basic information here -->
       <!-- For example:
       <p><strong>Name:</strong> Aditya Dixit</p>
-      <p><strong>Address:</strong> 123 Main St, City, Country</p>
-      <p><strong>Email:</strong> johndoe@example.com</p>
-      <p><strong>Phone:</strong> +1 234 56789</p>
+      <p><strong>Address:</strong> Balaji Apartment, Opposite Radha Swami Satsang Hall, Teen Batti Road, Nani Daman, INDIA, 396210</p>
+      <p><strong>Email:</strong> dixitaditya945@gmail.com</p>
+      <p><strong>Phone:</strong> +91 8980642625</p>
       <p><strong>Social Media:</strong> 
-        <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>, 
-        <a href="https://twitter.com/yourprofile">Twitter</a>, 
-        <a href="https://github.com/yourprofile">GitHub</a>
+        <a href="(https://www.linkedin.com/in/adiary123/)">LinkedIn</a>, 
+        <a href="(https://github.com/66aadesh)">GitHub</a>
       </p>
       -->
     </div>
